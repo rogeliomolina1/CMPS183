@@ -19,4 +19,5 @@ def serve_image(filename):
 def serve_css(filename):
     return static_file(filename, root='css', mimetype='text/css')
 
+
 run(host='localhost', port=8080, debug=True)
