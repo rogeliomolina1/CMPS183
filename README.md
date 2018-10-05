@@ -1,2 +1,1 @@
-# CMPS183
-# CMPS183
+# Homework for CMPS 183 Web Development
