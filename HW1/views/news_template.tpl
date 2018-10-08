@@ -18,33 +18,63 @@ October 2018
 
 
   <div class="container lucabox">
+
     <div class="third compressible">
     <div class="textblob disabled">
       This is normal text, <span class="special">and this is text in a span.</span>
     </div></div>
+
     <div class="third compressible">
     <div class="textblob">
       Div 2
     </div></div>
+
     <div class="third compressible">
     <div class="textblob">
       Div 3
     </div></div>
+
     <div id="footer">This is the footer.</div>
 
   </div>
 
   <div class="container lucabox">
+
     <div class="third compressible">
     <div class="textblob disabled">
       This is normal text, <span class="special">and this is text in a span.</span>
     </div></div>
+
+    <div class="third compressible">
+    <img src="/images/polar-bear.jpg" /></div>
+    <div id="footer">This is the footer.</div>
+
     <div class="third compressible">
     <div class="textblob">
       Div 3
     </div></div>
+
+
   </div>
 
-  <div id="footer">This is the footer.</div>
+  <div class="container lucabox">
 
+    <div class="third compressible">
+    <div class="textblob disabled">
+      This is normal text, <span class="special">and this is text in a span.</span>
+    </div></div>
+
+    <div class="third compressible">
+    <div class="textblob">
+      Div 2
+    </div></div>
+
+    <div class="third compressible">
+    <div class="textblob">
+      Div 3
+    </div></div>
+
+    <div id="footer">This is the footer.</div>
+
+  </div>
 </div>
