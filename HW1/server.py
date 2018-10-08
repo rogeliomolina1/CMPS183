@@ -5,9 +5,9 @@ def news():
     return template('news_template')
 
 # Let's add some code to serve jpg images from our static images directory.
-@post('/images/<filename:re:.*\.jpg>')
+@route('/images/<filename:re:.*\.png>')
 def serve_image(filename):
-    return static_file(filename, root='images', mimetype='image/jpg')
+    return static_file(filename, root='images', mimetype='image/png')
 
 # Let's add some code to serve jpg images from our static images directory.
 @get('/images/<filename:re:.*\.jpg>')
