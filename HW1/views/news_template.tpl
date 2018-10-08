@@ -4,11 +4,14 @@
   <link href="/css/myapp.css" rel="stylesheet" type="text/css"/>
 </head>
 
-<div id="banner"><img src="/images/logo.png" />
-<div>
+<div id="banner">
+<img src="/images/logo.png" />
+<h2 class="date">
 October 2018
+</h2>
+</img>
 </div>
-</div>
+
 <h2>Not so bit a title</h2>
 
 <div id="maindiv">
