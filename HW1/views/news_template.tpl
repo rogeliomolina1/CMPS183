@@ -29,7 +29,7 @@ October 2018
 
 
 
-<div class="container rogeBox">
+<div class="container" id="rogeBox">
 <div class="third compressible content" id="content">
 <p>
 A new study finds polar bears in the wild have higher metablolic rates than
@@ -101,21 +101,21 @@ polar bears, eventually transforming the polar bear population into brown bears.
 
 
 
-<div class="container">
+<div class="container" id="colorBoxes">
 <div class="third compressible" id="content">
-  <div id="colorBoxGreen">
+  <div class="colorBoxGreen">
     Read more about bears
   </div>
 </div>
 
 <div class="third compressible" id="content">
-  <div id="colorBoxOrange">
+  <div class="colorBoxOrange">
     Read more about banana slugs
   </div>
 </div>
 
 <div class="third compressible" id="content">
-  <div id="colorBoxBlue">
+  <div class="colorBoxBlue">
     Read more about cats
   </div>
 </div>
