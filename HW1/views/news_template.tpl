@@ -13,20 +13,24 @@ October 2018
 </div>
 
 <div id="PageBod">
+
+
 <div class="container">
 <div class="twothirds compressible">
-  <h2>Polar bears finding it harder to catch seals</h2>
+  <h3>Polar bears finding it harder to catch seals</h3>
   <h5 class="author">By Tim Stephens</h5>
   <h5 class="author">February 2018</h5>
 </div>
 
 <div class="third compressible">
-<h2>DNA clarifies relationship between polar bears and brown bears</h2>
+<h3>DNA clarifies relationship between polar bears and brown bears</h3>
 </div>
 </div>
 
-<div class="container">
-<div class="third compressible">
+
+
+<div class="container rogeBox">
+<div class="third compressible content" id="content">
 <p>
 A new study finds polar bears in the wild have higher metablolic rates than
 previously thought, and as climate change alters their environment a growing
@@ -34,7 +38,7 @@ number of bears are unable to catch enough prey to meet their energy needs.
 </p>
 
 <p>
-The study, <span class="link">published February 2 in Science, </span> reveals
+The study, <span><u class="link">published February 2 in <i>Science</i>,</u></span> reveals
 the physiological mechanisms behind observed declines in polar bear populations,
 said first author Anthony Pagano, a Ph.D. candidate at UC Santa Cruz.
 </p>
@@ -55,38 +59,42 @@ professors of ecology and evolutionary biology.
 
 </div>
 
-<div class="third compressible">
+<div class="third compressible" id="content">
   <div>
   <img class="picture" src="/images/polar-bear.jpg" />
-  <div id="footer bear"><i>A polar bear</i></div>
+  <div id="footer"><i>A polar bear</i></div>
 </div>
+
+<div class="adUnderPic">
   <div class="textblob">
-    <h3>Drink water and save the world!</h3>
+    <h3 class="title">Drink water and save the world!</h3>
     <p1>Drinking waters is better for your health than drinking olive oil, and
     besides, it's cheaper too!
   </p1>
   </div>
 </div>
+</div>
 
-<div class="third compressible">
-  <h6>Unusual population of brown bears on Alaskan island turns out
+<div class="third compressible" id="content">
+  <h6 class="medium">Unusual population of brown bears on Alaskan island turns out
     to have remarkable and revealing story.</h6>
-  <h5>By Tim Stephens</h5>
-  <h5 class="author">March 2013</h5>
+  <h5 class="author">By Tim Stephens</h5>
+  <h5 class="date2">March 2013</h5>
   <p>
 At the end of the last ice age, a population of polar bears was stranded by the
 receding ice on a few islands from the Alaskan mainland and mated with female
 polar bears, eventually transforming the polar bear population into brown bears.
   </p>
 
+<div class="ad">
   <div class="textblob">
-    <h3>Get a sidecar bike</h3>
+    <h3 class="title">Get a sidecar bike</h3>
     <p1>Do you have a friend who you like to go around with, but who's too lazy
-    for pedaling? Get a bike with a sidecar at <span class="sidecar">SideCarBikes.com
+    for pedaling? Get a bike with a sidecar at <span><u>SideCarBikes.com</u>
     </span>
   </p1>
   </div>
-
+</div>
 </div>
 
 </div>
@@ -94,20 +102,20 @@ polar bears, eventually transforming the polar bear population into brown bears.
 
 
 <div class="container">
-<div class="third compressible">
-  <div class="colorBoxGreen">
+<div class="third compressible" id="content">
+  <div id="colorBoxGreen">
     Read more about bears
   </div>
 </div>
 
-<div class="third compressible">
-  <div class="colorBoxOrange">
+<div class="third compressible" id="content">
+  <div id="colorBoxOrange">
     Read more about banana slugs
   </div>
 </div>
 
-<div class="third compressible">
-  <div class="colorBoxBlue">
+<div class="third compressible" id="content">
+  <div id="colorBoxBlue">
     Read more about cats
   </div>
 </div>
