@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'NoneType' object has no attribute 'lower'"
+p3
+sS'layer'
+p4
+S'/mnt/c/Users/rogel/Desktop/CMPS183/web2py/applications/HW3/controllers/api.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7fae5c0465b0, file "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/applications/HW3/controllers/api.py", line 4>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/applications/HW3/controllers/api.py", line 59, in <module>\n  File "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/gluon/globals.py", line 421, in <lambda>\n    self._caller = lambda f: f()\n  File "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/gluon/tools.py", line 3862, in f\n    return action(*a, **b)\n  File "/mnt/c/Users/rogel/Desktop/CMPS183/web2py/applications/HW3/controllers/api.py", line 48, in set_thumb\n    thumb_status = request.vars.thumb.lower().startswith(\'t\');\nAttributeError: \'NoneType\' object has no attribute \'lower\'\n'
+p11
+s.
